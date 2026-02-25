@@ -1,6 +1,6 @@
 # Portfolio — Shushrutha Reddy Borra (EN/DE)
 
-Live Site: https://yourusername.github.io
+Live Site: https://shushruthareddy123.github.io/Shushruthareddy.github.io/
 
 ## About
 Data Analyst based in Berlin, Germany.
