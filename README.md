@@ -14,6 +14,5 @@ Data Analyst based in Berlin, Germany.
 ## Projects
 1. Sales Dashboard (Power BI)
 2. Transportation Data Analysis (Python)
-3. SQL KPI Reporting
-
-4.KI-gestütztes Resume Screening und Ranking mit NLP und Machine Learning
+3. SQL KPI Reporting.
+4. KI-gestütztes Resume Screening und Ranking mit NLP und Machine Learning
